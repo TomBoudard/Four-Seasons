@@ -34,7 +34,7 @@ namespace MyNamespace
                 if (Controller.isGrounded)
                 {
                     // Move thanks to the vertical axis (up down arrow or W S)
-                    moveVector = new Vector3(-Input.GetAxis("Vertical"), 0, 0);
+                    moveVector = new Vector3(-Input.GetAxis("Vertical"), 0, Input.GetAxis("Horizontal"));
                     moveVector = transform.TransformDirection(moveVector);
 
                     if (Input.GetButtonDown("Jump"))
@@ -71,7 +71,20 @@ namespace MyNamespace
 
                 // Gravity and transforms to the global world
                 moveVector.y -= gravity * Time.deltaTime;
-                transform.Rotate(Vector3.up * Input.GetAxis("Horizontal") * Time.deltaTime * speed * 10);
+                float direction;
+                if (Input.mousePosition.x < 20)
+                {
+                    direction = -1;
+                }
+                else if (Input.mousePosition.x > 20 && Input.mousePosition.x < 800){
+                    direction = 0;
+                }
+                else{
+                    direction = 1;
+                }
+                Vector3 rotation = Vector3.up;
+                rotation.y = direction * Time.deltaTime * speed * 10;
+                transform.Rotate(rotation);
                 Controller.Move(moveVector * speed * Time.deltaTime);
             }
         }
