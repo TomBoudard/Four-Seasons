@@ -13,26 +13,95 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2023-02-01T16:03:00.542+01:00
-  initializedAtString: 2023-02-01T16:03:00.526+01:00
+  lastUpdatedAtString: 2023-02-08T17:31:19.193+01:00
+  initializedAtString: 2023-02-08T16:59:31.551+01:00
   localBranches:
-  - name: master
-    tracking: 
-  remoteBranches: []
-  remotes: []
+  - name: Creation-of-a-first-environment
+    tracking: origin/Creation-of-a-first-environment
+  - name: Environment
+    tracking: origin/Environment
+  - name: main
+    tracking: origin/main
+  remoteBranches:
+  - name: origin/Camera
+    tracking: '[None]'
+  - name: origin/Creation-of-a-first-environment
+    tracking: '[None]'
+  - name: origin/Environment
+    tracking: '[None]'
+  - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/Interaction
+    tracking: '[None]'
+  remotes:
+  - name: origin
+    url: https://github.com/TomBoudard/Four-Seasons.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
   localConfigBranches:
     keys:
-    - master
+    - Creation-of-a-first-environment
+    - Environment
+    - main
     values:
-    - name: master
+    - name: Creation-of-a-first-environment
       remote:
-        name: 
-        url: 
-      trackingBranch: 
+        name: origin
+        url: https://github.com/TomBoudard/Four-Seasons.git
+      trackingBranch: Creation-of-a-first-environment
+    - name: Environment
+      remote:
+        name: origin
+        url: https://github.com/TomBoudard/Four-Seasons.git
+      trackingBranch: Environment
+    - name: main
+      remote:
+        name: origin
+        url: https://github.com/TomBoudard/Four-Seasons.git
+      trackingBranch: main
   remoteConfigBranches:
-    keys: []
-    subKeys: []
-    subKeyValues: []
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - Camera
+      - Creation-of-a-first-environment
+      - Environment
+      - HEAD
+      - Interaction
+    subKeyValues:
+    - Values:
+      - name: Camera
+        remote:
+          name: origin
+          url: https://github.com/TomBoudard/Four-Seasons.git
+        trackingBranch: 
+      - name: Creation-of-a-first-environment
+        remote:
+          name: origin
+          url: https://github.com/TomBoudard/Four-Seasons.git
+        trackingBranch: 
+      - name: Environment
+        remote:
+          name: origin
+          url: https://github.com/TomBoudard/Four-Seasons.git
+        trackingBranch: 
+      - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/TomBoudard/Four-Seasons.git
+        trackingBranch: 
+      - name: Interaction
+        remote:
+          name: origin
+          url: https://github.com/TomBoudard/Four-Seasons.git
+        trackingBranch: 
   configRemotes:
-    keys: []
-    values: []
+    keys:
+    - origin
+    values:
+    - name: origin
+      url: https://github.com/TomBoudard/Four-Seasons.git

@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2023-02-01T16:22:21.429+01:00
-  initializedAtString: 2023-02-01T16:22:21.429+01:00
+  lastUpdatedAtString: 2023-02-08T17:57:49.365+01:00
+  initializedAtString: 2023-02-08T17:57:49.365+01:00
   currentGitRemote:
     name: origin
     url: https://github.com/TomBoudard/Four-Seasons.git
@@ -24,14 +24,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: main
-    tracking: origin/main
+    name: Environment
+    tracking: origin/Environment
   currentConfigBranch:
-    name: main
+    name: Environment
     remote:
       name: origin
       url: https://github.com/TomBoudard/Four-Seasons.git
-    trackingBranch: main
+    trackingBranch: Environment
   currentConfigRemote:
     name: origin
     url: https://github.com/TomBoudard/Four-Seasons.git
