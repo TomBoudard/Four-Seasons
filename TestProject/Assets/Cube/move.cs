@@ -18,7 +18,8 @@ namespace MyNamespace
         bool can_dash = false;
         public float global_time_for_dash = 0f;
         public bool player_movement = false;
-       
+        private string oldkey;
+        
         // Start is called before the first frame update
         void Start()
         {
@@ -33,9 +34,45 @@ namespace MyNamespace
                 // If the player is on the ground we can jump
                 if (Controller.isGrounded)
                 {
+                     // Rotation
+                    Vector3 direction = new Vector3(0,0,0);
+                    if (Input.GetKeyDown(KeyCode.LeftArrow) && oldkey != "left")
+                    {
+                            oldkey = "left";
+                            direction = new Vector3(0, 90, 0);
+                            // Vector3 diff = transform.eulerAngles - direction;
+                            // Vector3 rot;
+                            // if (diff.y < 0){
+                            //     rot = new Vector3(0,1,0);
+                            // }
+                            // else{
+                            //     rot = new Vector3(0,-1,0);
+                            // }
+
+                            // while (diff.y != 0){
+                            //     transform.Rotate(rot);
+                            //     diff = transform.eulerAngles - direction;
+                            // }
+                            transform.eulerAngles = direction;
+                    } 
+                    else if (Input.GetKeyDown(KeyCode.RightArrow) && oldkey != "right")
+                    {
+                            oldkey = "right";
+                            direction = new Vector3(0, -90, 0);
+                            transform.eulerAngles = direction;
+                    }
+                    else if(Input.GetKeyDown(KeyCode.DownArrow) && oldkey != "down"){
+                            oldkey = "down";
+                            direction = new Vector3(0, 0, 0);
+                            transform.eulerAngles = direction;
+                    }
+                    else if(Input.GetKeyDown(KeyCode.UpArrow) && oldkey != "up"){
+                            oldkey = "up";
+                            direction = new Vector3(0,180,0);
+                            transform.eulerAngles = direction;
+                    }
                     // Move thanks to the vertical axis (up down arrow or W S)
-                    moveVector = new Vector3(-Input.GetAxis("Vertical"), 0, Input.GetAxis("Horizontal"));
-                    moveVector = transform.TransformDirection(moveVector);
+                    moveVector = new Vector3(Input.GetAxis("Vertical"), 0, -Input.GetAxis("Horizontal"));
 
                     if (Input.GetButtonDown("Jump"))
                     {
@@ -71,20 +108,7 @@ namespace MyNamespace
 
                 // Gravity and transforms to the global world
                 moveVector.y -= gravity * Time.deltaTime;
-                float direction;
-                if (Input.mousePosition.x < 20)
-                {
-                    direction = -1;
-                }
-                else if (Input.mousePosition.x > 20 && Input.mousePosition.x < 800){
-                    direction = 0;
-                }
-                else{
-                    direction = 1;
-                }
-                Vector3 rotation = Vector3.up;
-                rotation.y = direction * Time.deltaTime * speed * 10;
-                transform.Rotate(rotation);
+               
                 Controller.Move(moveVector * speed * Time.deltaTime);
             }
         }
