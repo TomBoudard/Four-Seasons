@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2023-02-14T10:55:35.912+01:00
-  initializedAtString: 2023-02-14T10:51:43.552+01:00
+  lastUpdatedAtString: 2023-02-15T10:36:23.120+01:00
+  initializedAtString: 2023-02-15T10:23:24.225+01:00
   localBranches:
   - name: Camera
     tracking: 
@@ -36,6 +36,8 @@ MonoBehaviour:
   - name: origin/Interaction
     tracking: '[None]'
   - name: origin/main
+    tracking: '[None]'
+  - name: origin/MoveWithMouse
     tracking: '[None]'
   remotes:
   - name: origin
@@ -78,6 +80,7 @@ MonoBehaviour:
       - HEAD
       - Interaction
       - main
+      - MoveWithMouse
     subKeyValues:
     - Values:
       - name: Camera
@@ -111,6 +114,11 @@ MonoBehaviour:
           url: https://github.com/TomBoudard/Four-Seasons.git
         trackingBranch: 
       - name: main
+        remote:
+          name: origin
+          url: https://github.com/TomBoudard/Four-Seasons.git
+        trackingBranch: 
+      - name: MoveWithMouse
         remote:
           name: origin
           url: https://github.com/TomBoudard/Four-Seasons.git

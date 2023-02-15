@@ -40,19 +40,6 @@ namespace MyNamespace
                     {
                             oldkey = "left";
                             direction = new Vector3(0, 90, 0);
-                            // Vector3 diff = transform.eulerAngles - direction;
-                            // Vector3 rot;
-                            // if (diff.y < 0){
-                            //     rot = new Vector3(0,1,0);
-                            // }
-                            // else{
-                            //     rot = new Vector3(0,-1,0);
-                            // }
-
-                            // while (diff.y != 0){
-                            //     transform.Rotate(rot);
-                            //     diff = transform.eulerAngles - direction;
-                            // }
                             transform.eulerAngles = direction;
                     } 
                     else if (Input.GetKeyDown(KeyCode.RightArrow) && oldkey != "right")

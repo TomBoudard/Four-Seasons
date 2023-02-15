@@ -13,18 +13,66 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2023-02-14T11:33:48.433+01:00
-  initializedAtString: 2023-02-14T11:24:30.495+01:00
+  lastUpdatedAtString: 2023-02-15T11:09:27.142+01:00
+  initializedAtString: 2023-02-15T10:23:23.607+01:00
   entries:
-  - path: TestProject\.vscode\settings.json
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\.vscode\settings.json
-    projectPath: .vscode\settings.json
+  - path: TestProject\Assets\Cube\Animate.cs
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Assets\Cube\Animate.cs
+    projectPath: Assets\Cube\Animate.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TestProject\Assets\Cube\Animate.cs.meta
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Assets\Cube\Animate.cs.meta
+    projectPath: Assets\Cube\Animate.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: TestProject\Assets\Cube\move.cs
     fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Assets\Cube\move.cs
     projectPath: Assets\Cube\move.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: TestProject\Assets\owl\Armature.001_idle.anim
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Assets\owl\Armature.001_idle.anim
+    projectPath: Assets\owl\Armature.001_idle.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TestProject\Assets\owl\Armature.001_idle.anim.meta
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Assets\owl\Armature.001_idle.anim.meta
+    projectPath: Assets\owl\Armature.001_idle.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TestProject\Assets\owl\Armature.001_Jump.002.anim
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Assets\owl\Armature.001_Jump.002.anim
+    projectPath: Assets\owl\Armature.001_Jump.002.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TestProject\Assets\owl\Armature.001_Jump.002.anim.meta
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Assets\owl\Armature.001_Jump.002.anim.meta
+    projectPath: Assets\owl\Armature.001_Jump.002.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TestProject\Assets\owl\Armature.001_Walking.anim
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Assets\owl\Armature.001_Walking.anim
+    projectPath: Assets\owl\Armature.001_Walking.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TestProject\Assets\owl\Armature.001_Walking.anim.meta
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Assets\owl\Armature.001_Walking.anim.meta
+    projectPath: Assets\owl\Armature.001_Walking.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TestProject\Assets\owl\OwlAnimator.controller
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Assets\owl\OwlAnimator.controller
+    projectPath: Assets\owl\OwlAnimator.controller
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -40,183 +88,135 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: TestProject\Library\Artifacts\0b\0b73be496395b5a9b8b61fa79512d686
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\0b\0b73be496395b5a9b8b61fa79512d686
-    projectPath: Library\Artifacts\0b\0b73be496395b5a9b8b61fa79512d686
+  - path: TestProject\Library\Artifacts\21\2178a8a0fa8308fcfa83c6c3cf779a0c
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\21\2178a8a0fa8308fcfa83c6c3cf779a0c
+    projectPath: Library\Artifacts\21\2178a8a0fa8308fcfa83c6c3cf779a0c
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: TestProject\Library\Artifacts\18\1846ba5ee520afa6f72e5dcf7149bea6
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\18\1846ba5ee520afa6f72e5dcf7149bea6
-    projectPath: Library\Artifacts\18\1846ba5ee520afa6f72e5dcf7149bea6
+  - path: TestProject\Library\Artifacts\23\23946e0e60de563139843dfe3bc276b8
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\23\23946e0e60de563139843dfe3bc276b8
+    projectPath: Library\Artifacts\23\23946e0e60de563139843dfe3bc276b8
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: TestProject\Library\Artifacts\1a\1ac371e69dde76526822c540204c2bc7
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\1a\1ac371e69dde76526822c540204c2bc7
-    projectPath: Library\Artifacts\1a\1ac371e69dde76526822c540204c2bc7
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TestProject\Library\Artifacts\26\2660413357ef7ce88195e75b39810c89
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\26\2660413357ef7ce88195e75b39810c89
+    projectPath: Library\Artifacts\26\2660413357ef7ce88195e75b39810c89
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: TestProject\Library\Artifacts\1f\1fe54318fe85aeab159f1a8b425c1aa5
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\1f\1fe54318fe85aeab159f1a8b425c1aa5
-    projectPath: Library\Artifacts\1f\1fe54318fe85aeab159f1a8b425c1aa5
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TestProject\Library\Artifacts\32\320e74809ce08291d3ddd7448ba3cdd2
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\32\320e74809ce08291d3ddd7448ba3cdd2
+    projectPath: Library\Artifacts\32\320e74809ce08291d3ddd7448ba3cdd2
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: TestProject\Library\Artifacts\3b\3b21d2dab338275f3ada9646fd331c8d
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\3b\3b21d2dab338275f3ada9646fd331c8d
-    projectPath: Library\Artifacts\3b\3b21d2dab338275f3ada9646fd331c8d
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TestProject\Library\Artifacts\7a\7a55f88bc8ec30829f6f7ecc73e0cb10
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\7a\7a55f88bc8ec30829f6f7ecc73e0cb10
+    projectPath: Library\Artifacts\7a\7a55f88bc8ec30829f6f7ecc73e0cb10
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: TestProject\Library\Artifacts\43\437f311e80eb33f3a900b983cfabb8bd
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\43\437f311e80eb33f3a900b983cfabb8bd
-    projectPath: Library\Artifacts\43\437f311e80eb33f3a900b983cfabb8bd
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TestProject\Library\Artifacts\81\81688730bccc24ae011ef36fc277f933
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\81\81688730bccc24ae011ef36fc277f933
+    projectPath: Library\Artifacts\81\81688730bccc24ae011ef36fc277f933
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: TestProject\Library\Artifacts\49\49e1487089a3e768239bb6d97ae2e760
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\49\49e1487089a3e768239bb6d97ae2e760
-    projectPath: Library\Artifacts\49\49e1487089a3e768239bb6d97ae2e760
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TestProject\Library\Artifacts\8e\8e90e03a0adf4c462c4e29580a92ff48
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\8e\8e90e03a0adf4c462c4e29580a92ff48
+    projectPath: Library\Artifacts\8e\8e90e03a0adf4c462c4e29580a92ff48
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: TestProject\Library\Artifacts\4d\4d940679f48a2faf0a614a9e7199b90d
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\4d\4d940679f48a2faf0a614a9e7199b90d
-    projectPath: Library\Artifacts\4d\4d940679f48a2faf0a614a9e7199b90d
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TestProject\Library\Artifacts\a2\a2337af2135f9f797318bf011a754fad
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\a2\a2337af2135f9f797318bf011a754fad
+    projectPath: Library\Artifacts\a2\a2337af2135f9f797318bf011a754fad
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: TestProject\Library\Artifacts\62\6294961c3b1df6f3f3e8cc8efe9a33b5
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\62\6294961c3b1df6f3f3e8cc8efe9a33b5
-    projectPath: Library\Artifacts\62\6294961c3b1df6f3f3e8cc8efe9a33b5
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TestProject\Library\Artifacts\a5\a5b4c7db53ce8558950d624b08fcbf46
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\a5\a5b4c7db53ce8558950d624b08fcbf46
+    projectPath: Library\Artifacts\a5\a5b4c7db53ce8558950d624b08fcbf46
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: TestProject\Library\Artifacts\63\63ddef1ceb2168d2e4cfa96e9181c651
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\63\63ddef1ceb2168d2e4cfa96e9181c651
-    projectPath: Library\Artifacts\63\63ddef1ceb2168d2e4cfa96e9181c651
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: TestProject\Library\Artifacts\77\77b3ad38cf4e4f4ac0e156740941b95c
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\77\77b3ad38cf4e4f4ac0e156740941b95c
-    projectPath: Library\Artifacts\77\77b3ad38cf4e4f4ac0e156740941b95c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: TestProject\Library\Artifacts\7d\7d18afbd7dcca81d38d915df3033f711
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\7d\7d18afbd7dcca81d38d915df3033f711
-    projectPath: Library\Artifacts\7d\7d18afbd7dcca81d38d915df3033f711
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: TestProject\Library\Artifacts\83\83f69576f9afe96abb8b44a021e183bc
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\83\83f69576f9afe96abb8b44a021e183bc
-    projectPath: Library\Artifacts\83\83f69576f9afe96abb8b44a021e183bc
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: TestProject\Library\Artifacts\8e\8e7c571ada9824aee9691ad076d73e8c
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\8e\8e7c571ada9824aee9691ad076d73e8c
-    projectPath: Library\Artifacts\8e\8e7c571ada9824aee9691ad076d73e8c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: TestProject\Library\Artifacts\97\97f6f5a75c4de692d06f3eeae1166219
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\97\97f6f5a75c4de692d06f3eeae1166219
-    projectPath: Library\Artifacts\97\97f6f5a75c4de692d06f3eeae1166219
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: TestProject\Library\Artifacts\a1\a11bbf1d48e8e172c9ec0d1d09750ca0
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\a1\a11bbf1d48e8e172c9ec0d1d09750ca0
-    projectPath: Library\Artifacts\a1\a11bbf1d48e8e172c9ec0d1d09750ca0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: TestProject\Library\Artifacts\a1\a1e496f4e8be2a481a991aa67a75db22
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\a1\a1e496f4e8be2a481a991aa67a75db22
-    projectPath: Library\Artifacts\a1\a1e496f4e8be2a481a991aa67a75db22
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: TestProject\Library\Artifacts\a2\a213b0f98207cc37d97a4a0e5622b43c
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\a2\a213b0f98207cc37d97a4a0e5622b43c
-    projectPath: Library\Artifacts\a2\a213b0f98207cc37d97a4a0e5622b43c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: TestProject\Library\Artifacts\a5\a5eb0496fbdbcd334a396d7326c2489e
     fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\a5\a5eb0496fbdbcd334a396d7326c2489e
     projectPath: Library\Artifacts\a5\a5eb0496fbdbcd334a396d7326c2489e
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\Artifacts\b2\b224fd7058d654537c2bbf307cd7b81c
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\b2\b224fd7058d654537c2bbf307cd7b81c
-    projectPath: Library\Artifacts\b2\b224fd7058d654537c2bbf307cd7b81c
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: TestProject\Library\Artifacts\b3\b30f120d3f393c08d5cff96ac8981a18
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\b3\b30f120d3f393c08d5cff96ac8981a18
-    projectPath: Library\Artifacts\b3\b30f120d3f393c08d5cff96ac8981a18
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: TestProject\Library\Artifacts\bd\bd3b3e5efd1936c5316dab4dc453bbb0
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\bd\bd3b3e5efd1936c5316dab4dc453bbb0
-    projectPath: Library\Artifacts\bd\bd3b3e5efd1936c5316dab4dc453bbb0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: TestProject\Library\Artifacts\d9\d9af845a88e729d55d0eb90075fa81ca
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\d9\d9af845a88e729d55d0eb90075fa81ca
-    projectPath: Library\Artifacts\d9\d9af845a88e729d55d0eb90075fa81ca
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: TestProject\Library\Artifacts\e3\e375aa0756f6a88aec49dd84739ec6ce
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\e3\e375aa0756f6a88aec49dd84739ec6ce
-    projectPath: Library\Artifacts\e3\e375aa0756f6a88aec49dd84739ec6ce
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: TestProject\Library\Artifacts\e9\e9c19b4bf51c65daea4297f97fb26869
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\e9\e9c19b4bf51c65daea4297f97fb26869
-    projectPath: Library\Artifacts\e9\e9c19b4bf51c65daea4297f97fb26869
+  - path: TestProject\Library\Artifacts\a8\a80315f36db85ddf433b4d684e5c325a
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\a8\a80315f36db85ddf433b4d684e5c325a
+    projectPath: Library\Artifacts\a8\a80315f36db85ddf433b4d684e5c325a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: TestProject\Library\Artifacts\ee\ee0a364245840ef26c03bcd9b4a4baa8
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\ee\ee0a364245840ef26c03bcd9b4a4baa8
-    projectPath: Library\Artifacts\ee\ee0a364245840ef26c03bcd9b4a4baa8
+  - path: TestProject\Library\Artifacts\a8\a8dec9aa7dd50a48e2c866dd6be98011
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\a8\a8dec9aa7dd50a48e2c866dd6be98011
+    projectPath: Library\Artifacts\a8\a8dec9aa7dd50a48e2c866dd6be98011
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: TestProject\Library\Artifacts\f2\f27083b82b4390d8cbd0899ee055f0df
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\f2\f27083b82b4390d8cbd0899ee055f0df
-    projectPath: Library\Artifacts\f2\f27083b82b4390d8cbd0899ee055f0df
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TestProject\Library\Artifacts\b2\b200667bbd050a0e232a38cd164361fc
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\b2\b200667bbd050a0e232a38cd164361fc
+    projectPath: Library\Artifacts\b2\b200667bbd050a0e232a38cd164361fc
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: TestProject\Library\Artifacts\f9\f98bae32118c9a5fcdca2e35c7be2acc
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\f9\f98bae32118c9a5fcdca2e35c7be2acc
-    projectPath: Library\Artifacts\f9\f98bae32118c9a5fcdca2e35c7be2acc
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TestProject\Library\Artifacts\bb\bb1342ee59751df52d5999e8fa750f6e
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\bb\bb1342ee59751df52d5999e8fa750f6e
+    projectPath: Library\Artifacts\bb\bb1342ee59751df52d5999e8fa750f6e
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TestProject\Library\Artifacts\c7\c7c543c6adee234f7c9e7f474742e4e4
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\c7\c7c543c6adee234f7c9e7f474742e4e4
+    projectPath: Library\Artifacts\c7\c7c543c6adee234f7c9e7f474742e4e4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TestProject\Library\Artifacts\e1\e1fd4bdbf7fe680166c8f9b5be17b37b
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\e1\e1fd4bdbf7fe680166c8f9b5be17b37b
+    projectPath: Library\Artifacts\e1\e1fd4bdbf7fe680166c8f9b5be17b37b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TestProject\Library\Artifacts\e5\e52b2ef3d9a84dcb44fd7925ef982cb7
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\e5\e52b2ef3d9a84dcb44fd7925ef982cb7
+    projectPath: Library\Artifacts\e5\e52b2ef3d9a84dcb44fd7925ef982cb7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TestProject\Library\Artifacts\f1\f1e249018a9d46d0d3910f467eff0513
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\f1\f1e249018a9d46d0d3910f467eff0513
+    projectPath: Library\Artifacts\f1\f1e249018a9d46d0d3910f467eff0513
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TestProject\Library\Artifacts\f7\f79bbdc38694c93f6638ebb1cd08176f
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\f7\f79bbdc38694c93f6638ebb1cd08176f
+    projectPath: Library\Artifacts\f7\f79bbdc38694c93f6638ebb1cd08176f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: TestProject\Library\Bee\1900b0aE.dag
     fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Bee\1900b0aE.dag
     projectPath: Library\Bee\1900b0aE.dag
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: TestProject\Library\Bee\1900b0aE.dag_fsmtime
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Bee\1900b0aE.dag_fsmtime
-    projectPath: Library\Bee\1900b0aE.dag_fsmtime
+  - path: TestProject\Library\Bee\1900b0aE.dag.json
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Bee\1900b0aE.dag.json
+    projectPath: Library\Bee\1900b0aE.dag.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: TestProject\Library\Bee\1900b0aE.dag_derived
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Bee\1900b0aE.dag_derived
+    projectPath: Library\Bee\1900b0aE.dag_derived
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -229,6 +229,18 @@ MonoBehaviour:
   - path: TestProject\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll
     fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: TestProject\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.ref.dll
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.ref.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.ref.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: TestProject\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.rsp
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -322,6 +334,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: TestProject\Library\InspectorExpandedItems.asset
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: TestProject\Library\SceneVisibilityState.asset
     fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
@@ -340,300 +358,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\01a700a6a318f4da1f6418ef87bfb9ec.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\01a700a6a318f4da1f6418ef87bfb9ec.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\01a700a6a318f4da1f6418ef87bfb9ec.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\08c1065ddddd252851195882870ac375.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\08c1065ddddd252851195882870ac375.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\08c1065ddddd252851195882870ac375.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\10cc179919b68c7aadc61d6771efec84.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\10cc179919b68c7aadc61d6771efec84.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\10cc179919b68c7aadc61d6771efec84.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\19640eec3b36a7e6604ee81a3c425823.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\19640eec3b36a7e6604ee81a3c425823.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\19640eec3b36a7e6604ee81a3c425823.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\1b0f5507f81429b92f664d7c22e6f10d.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\1b0f5507f81429b92f664d7c22e6f10d.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\1b0f5507f81429b92f664d7c22e6f10d.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\2550f88bbad0783e1da539e2abc63e93.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\2550f88bbad0783e1da539e2abc63e93.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\2550f88bbad0783e1da539e2abc63e93.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\2e9ca0bd25ac6a8207e66e58c1dead21.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\2e9ca0bd25ac6a8207e66e58c1dead21.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\2e9ca0bd25ac6a8207e66e58c1dead21.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\313de5da3000623fe4cc5c91070ea03c.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\313de5da3000623fe4cc5c91070ea03c.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\313de5da3000623fe4cc5c91070ea03c.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\35277a0ee4913a1779c168d4d535644a.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\35277a0ee4913a1779c168d4d535644a.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\35277a0ee4913a1779c168d4d535644a.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\35eec1e8e08f6f473cf1e098f7041d20.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\35eec1e8e08f6f473cf1e098f7041d20.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\35eec1e8e08f6f473cf1e098f7041d20.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\46a4dd01b3112151186544e93b494640.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\46a4dd01b3112151186544e93b494640.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\46a4dd01b3112151186544e93b494640.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\49b70f2614b797b58baa7c0b7101d87e.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\49b70f2614b797b58baa7c0b7101d87e.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\49b70f2614b797b58baa7c0b7101d87e.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\4ae09ba5eb80207351c686b7a8afd231.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\4ae09ba5eb80207351c686b7a8afd231.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\4ae09ba5eb80207351c686b7a8afd231.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\56b3cbe5adf7e51d860951245814fa25.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\56b3cbe5adf7e51d860951245814fa25.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\56b3cbe5adf7e51d860951245814fa25.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\57f33a4f7ce1b74c88fe07f9d013e240.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\57f33a4f7ce1b74c88fe07f9d013e240.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\57f33a4f7ce1b74c88fe07f9d013e240.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\6654b0b879f0a7f3bb43394a202cd308.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\6654b0b879f0a7f3bb43394a202cd308.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\6654b0b879f0a7f3bb43394a202cd308.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\6798018df830d0580f48665a0694961e.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\6798018df830d0580f48665a0694961e.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\6798018df830d0580f48665a0694961e.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\76778a0404e2c3f681c9f12a4c105a42.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\76778a0404e2c3f681c9f12a4c105a42.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\76778a0404e2c3f681c9f12a4c105a42.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\7bed610a9e7e99d9a1dfa2b10a9b710e.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\7bed610a9e7e99d9a1dfa2b10a9b710e.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\7bed610a9e7e99d9a1dfa2b10a9b710e.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\7d3f649b87022d083598655d944ab286.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\7d3f649b87022d083598655d944ab286.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\7d3f649b87022d083598655d944ab286.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\7d42ee0e9ea528f33660f808dbc658cd.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\7d42ee0e9ea528f33660f808dbc658cd.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\7d42ee0e9ea528f33660f808dbc658cd.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\7e6f821fd9d04e0867e6833da0563bec.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\7e6f821fd9d04e0867e6833da0563bec.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\7e6f821fd9d04e0867e6833da0563bec.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\86fd4ea1d961b3a8d136157b73990c85.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\86fd4ea1d961b3a8d136157b73990c85.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\86fd4ea1d961b3a8d136157b73990c85.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\896f8c48199e4e1932dd0dba9d465c76.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\896f8c48199e4e1932dd0dba9d465c76.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\896f8c48199e4e1932dd0dba9d465c76.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\8ff5e1dfcd3ffda27cf1668f04f60858.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\8ff5e1dfcd3ffda27cf1668f04f60858.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\8ff5e1dfcd3ffda27cf1668f04f60858.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\907e3a704f2cfa4abe6f739d70b0121e.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\907e3a704f2cfa4abe6f739d70b0121e.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\907e3a704f2cfa4abe6f739d70b0121e.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\90ebceb590a0835e50deda8f88859e41.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\90ebceb590a0835e50deda8f88859e41.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\90ebceb590a0835e50deda8f88859e41.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\91122a4d4771f1644497e27baeeefe52.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\91122a4d4771f1644497e27baeeefe52.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\91122a4d4771f1644497e27baeeefe52.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\99e0f7bd1d07abf50cb25ea97de1731e.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\99e0f7bd1d07abf50cb25ea97de1731e.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\99e0f7bd1d07abf50cb25ea97de1731e.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\9fb24223c2f05a51dbc2e1d89c1f5280.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\9fb24223c2f05a51dbc2e1d89c1f5280.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\9fb24223c2f05a51dbc2e1d89c1f5280.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\aafbbcec10d88ce8dca04ab81a7201db.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\aafbbcec10d88ce8dca04ab81a7201db.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\aafbbcec10d88ce8dca04ab81a7201db.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\b1dc868901a4a9296b3ac7d496f93260.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\b1dc868901a4a9296b3ac7d496f93260.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\b1dc868901a4a9296b3ac7d496f93260.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\b3dfce9b049e7f3efab071a4c56f0ef8.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\b3dfce9b049e7f3efab071a4c56f0ef8.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\b3dfce9b049e7f3efab071a4c56f0ef8.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\b879e473809a949a403c27673084368b.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\b879e473809a949a403c27673084368b.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\b879e473809a949a403c27673084368b.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\bb01a77b5c0b6610290b6ee0bda70305.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\bb01a77b5c0b6610290b6ee0bda70305.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\bb01a77b5c0b6610290b6ee0bda70305.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\cafbbf6a19f7f9fb62eee89a437f3cf6.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\cafbbf6a19f7f9fb62eee89a437f3cf6.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\cafbbf6a19f7f9fb62eee89a437f3cf6.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\ce148d396d9cc2eff1dc032e62d9fb66.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\ce148d396d9cc2eff1dc032e62d9fb66.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\ce148d396d9cc2eff1dc032e62d9fb66.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\d05377854107bec2874b97f2d91bf558.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\d05377854107bec2874b97f2d91bf558.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\d05377854107bec2874b97f2d91bf558.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\d15d72de23ca8e40ef6cef0ef5dd60d6.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\d15d72de23ca8e40ef6cef0ef5dd60d6.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\d15d72de23ca8e40ef6cef0ef5dd60d6.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\d2743216a4ac9771ae40f5e817d19c6b.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\d2743216a4ac9771ae40f5e817d19c6b.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\d2743216a4ac9771ae40f5e817d19c6b.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\d6a0d8a94c8a41851660cb4586f25221.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\d6a0d8a94c8a41851660cb4586f25221.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\d6a0d8a94c8a41851660cb4586f25221.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\d7271049c7b7f197f20029630e6a82e8.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\d7271049c7b7f197f20029630e6a82e8.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\d7271049c7b7f197f20029630e6a82e8.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\d9f2500b07dbbf1c0b03408e0419f794.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\d9f2500b07dbbf1c0b03408e0419f794.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\d9f2500b07dbbf1c0b03408e0419f794.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\e4243314ac9ec7bdd1714f3075c828be.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\e4243314ac9ec7bdd1714f3075c828be.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\e4243314ac9ec7bdd1714f3075c828be.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\e9bf40a0db03646a8e28a5cef83cc317.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\e9bf40a0db03646a8e28a5cef83cc317.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\e9bf40a0db03646a8e28a5cef83cc317.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\f9ed6ae27d805b4ea8751164395fc5ac.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\builtin\unity_builtin_extra0000\00\f9ed6ae27d805b4ea8751164395fc5ac.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\f9ed6ae27d805b4ea8751164395fc5ac.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\EditorEncounteredVariants
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\EditorEncounteredVariants
-    projectPath: Library\ShaderCache\EditorEncounteredVariants
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: TestProject\Library\ShaderCache\shader\TMP_SDF-Mobilefe39\00\2fb229ef4d211f4a080d600783ddbf2b.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\shader\TMP_SDF-Mobilefe39\00\2fb229ef4d211f4a080d600783ddbf2b.bin
-    projectPath: Library\ShaderCache\shader\TMP_SDF-Mobilefe39\00\2fb229ef4d211f4a080d600783ddbf2b.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\ShaderCache\shader\TMP_SDF-Mobilefe39\00\74d223cc8195f613f8503dcdd1279cd0.bin
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ShaderCache\shader\TMP_SDF-Mobilefe39\00\74d223cc8195f613f8503dcdd1279cd0.bin
-    projectPath: Library\ShaderCache\shader\TMP_SDF-Mobilefe39\00\74d223cc8195f613f8503dcdd1279cd0.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: TestProject\Library\SourceAssetDB
     fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
@@ -656,47 +380,35 @@ MonoBehaviour:
     fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Logs\AssetImportWorker0.log
     projectPath: Logs\AssetImportWorker0.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: TestProject\Logs\shadercompiler-AssetImportWorker0.log
     fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Logs\shadercompiler-AssetImportWorker0.log
     projectPath: Logs\shadercompiler-AssetImportWorker0.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: TestProject\Logs\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Logs\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: TestProject\Logs\shadercompiler-UnityShaderCompiler.exe1.log
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Logs\shadercompiler-UnityShaderCompiler.exe1.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe1.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: TestProject\Logs\shadercompiler-UnityShaderCompiler.exe2.log
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Logs\shadercompiler-UnityShaderCompiler.exe2.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe2.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: TestProject\Logs\shadercompiler-UnityShaderCompiler.exe3.log
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Logs\shadercompiler-UnityShaderCompiler.exe3.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe3.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: TestProject\Temp\__Backupscenes\0.backup
     fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: TestProject\Temp\FSTimeGet-2da6d5abd1cd0344394dc0d3f75dd3d8
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Temp\FSTimeGet-2da6d5abd1cd0344394dc0d3f75dd3d8
-    projectPath: Temp\FSTimeGet-2da6d5abd1cd0344394dc0d3f75dd3d8
+  - path: TestProject\Temp\FSTimeGet-76eb2ea5c24a55f49aac62a2cb0c7a42
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Temp\FSTimeGet-76eb2ea5c24a55f49aac62a2cb0c7a42
+    projectPath: Temp\FSTimeGet-76eb2ea5c24a55f49aac62a2cb0c7a42
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TestProject\Temp\FSTimeGet-9b4e2f16e86aaad42b2540c14589d85b
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Temp\FSTimeGet-9b4e2f16e86aaad42b2540c14589d85b
+    projectPath: Temp\FSTimeGet-9b4e2f16e86aaad42b2540c14589d85b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -712,9 +424,3 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: TestProject\UserSettings\Layouts\default-2021.dwlt
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\UserSettings\Layouts\default-2021.dwlt
-    projectPath: UserSettings\Layouts\default-2021.dwlt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
