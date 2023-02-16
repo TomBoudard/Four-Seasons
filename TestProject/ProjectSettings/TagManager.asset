@@ -6,6 +6,7 @@ TagManager:
   tags:
   - DashScrollbar
   - HealthScrollbar
+  - CameraPivot
   layers:
   - Default
   - TransparentFX

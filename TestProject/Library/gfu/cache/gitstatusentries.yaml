@@ -13,102 +13,138 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2023-02-15T11:09:27.142+01:00
-  initializedAtString: 2023-02-15T10:23:23.607+01:00
+  lastUpdatedAtString: 2023-02-16T11:36:28.339+01:00
+  initializedAtString: 2023-02-16T11:25:12.809+01:00
   entries:
+  - path: TestProject\Assets\Cube.meta
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Assets\Cube.meta
+    projectPath: Assets\Cube.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: TestProject\Assets\Cube\Animate.cs
     fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Assets\Cube\Animate.cs
     projectPath: Assets\Cube\Animate.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: TestProject\Assets\Cube\Animate.cs.meta
     fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Assets\Cube\Animate.cs.meta
     projectPath: Assets\Cube\Animate.cs.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: TestProject\Assets\Cube\move.cs
     fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Assets\Cube\move.cs
     projectPath: Assets\Cube\move.cs
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
-  - path: TestProject\Assets\owl\Armature.001_idle.anim
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Assets\owl\Armature.001_idle.anim
-    projectPath: Assets\owl\Armature.001_idle.anim
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Assets\owl\Armature.001_idle.anim.meta
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Assets\owl\Armature.001_idle.anim.meta
-    projectPath: Assets\owl\Armature.001_idle.anim.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Assets\owl\Armature.001_Jump.002.anim
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Assets\owl\Armature.001_Jump.002.anim
-    projectPath: Assets\owl\Armature.001_Jump.002.anim
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Assets\owl\Armature.001_Jump.002.anim.meta
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Assets\owl\Armature.001_Jump.002.anim.meta
-    projectPath: Assets\owl\Armature.001_Jump.002.anim.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Assets\owl\Armature.001_Walking.anim
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Assets\owl\Armature.001_Walking.anim
-    projectPath: Assets\owl\Armature.001_Walking.anim
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Assets\owl\Armature.001_Walking.anim.meta
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Assets\owl\Armature.001_Walking.anim.meta
-    projectPath: Assets\owl\Armature.001_Walking.anim.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Assets\owl\OwlAnimator.controller
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Assets\owl\OwlAnimator.controller
-    projectPath: Assets\owl\OwlAnimator.controller
+    workTreeStatus: 5
+  - path: TestProject\Assets\Cube\move.cs.meta
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Assets\Cube\move.cs.meta
+    projectPath: Assets\Cube\move.cs.meta
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: TestProject\Assets\Scenes\SampleScene.unity
     fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Assets\Scenes\SampleScene.unity
     projectPath: Assets\Scenes\SampleScene.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: TestProject\Assets\Scripts.meta
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Assets\Scripts.meta
+    projectPath: Assets\Scripts.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TestProject\Assets\Scripts\Camera.meta
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Assets\Scripts\Camera.meta
+    projectPath: Assets\Scripts\Camera.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TestProject\Assets\Scripts\Camera\CameraMovement.cs
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Assets\Scripts\Camera\CameraMovement.cs
+    projectPath: Assets\Scripts\Camera\CameraMovement.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TestProject\Assets\Scripts\Camera\CameraMovement.cs.meta
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Assets\Scripts\Camera\CameraMovement.cs.meta
+    projectPath: Assets\Scripts\Camera\CameraMovement.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TestProject\Assets\Scripts\Owl.meta
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Assets\Scripts\Owl.meta
+    projectPath: Assets\Scripts\Owl.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TestProject\Assets\Scripts\Owl\Animate.cs
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Assets\Scripts\Owl\Animate.cs
+    projectPath: Assets\Scripts\Owl\Animate.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TestProject\Assets\Scripts\Owl\Animate.cs.meta
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Assets\Scripts\Owl\Animate.cs.meta
+    projectPath: Assets\Scripts\Owl\Animate.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TestProject\Assets\Scripts\Owl\move.cs
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Assets\Scripts\Owl\move.cs
+    projectPath: Assets\Scripts\Owl\move.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TestProject\Assets\Scripts\Owl\move.cs.meta
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Assets\Scripts\Owl\move.cs.meta
+    projectPath: Assets\Scripts\Owl\move.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: TestProject\Library\ArtifactDB
     fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: TestProject\Library\Artifacts\21\2178a8a0fa8308fcfa83c6c3cf779a0c
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\21\2178a8a0fa8308fcfa83c6c3cf779a0c
-    projectPath: Library\Artifacts\21\2178a8a0fa8308fcfa83c6c3cf779a0c
+  - path: TestProject\Library\Artifacts\08\08b8b1ef67af791e4c1739794a38dde4
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\08\08b8b1ef67af791e4c1739794a38dde4
+    projectPath: Library\Artifacts\08\08b8b1ef67af791e4c1739794a38dde4
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TestProject\Library\Artifacts\13\135bed32508cff3fabc004308a22c12f
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\13\135bed32508cff3fabc004308a22c12f
+    projectPath: Library\Artifacts\13\135bed32508cff3fabc004308a22c12f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TestProject\Library\Artifacts\23\2344e41d0fb79cf3191e172a1521c6b8
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\23\2344e41d0fb79cf3191e172a1521c6b8
+    projectPath: Library\Artifacts\23\2344e41d0fb79cf3191e172a1521c6b8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: TestProject\Library\Artifacts\23\23946e0e60de563139843dfe3bc276b8
     fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\23\23946e0e60de563139843dfe3bc276b8
     projectPath: Library\Artifacts\23\23946e0e60de563139843dfe3bc276b8
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\Artifacts\26\2660413357ef7ce88195e75b39810c89
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\26\2660413357ef7ce88195e75b39810c89
-    projectPath: Library\Artifacts\26\2660413357ef7ce88195e75b39810c89
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: TestProject\Library\Artifacts\32\320e74809ce08291d3ddd7448ba3cdd2
     fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\32\320e74809ce08291d3ddd7448ba3cdd2
     projectPath: Library\Artifacts\32\320e74809ce08291d3ddd7448ba3cdd2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TestProject\Library\Artifacts\69\6910aa6f9cb90dd80eca9616b5889e9c
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\69\6910aa6f9cb90dd80eca9616b5889e9c
+    projectPath: Library\Artifacts\69\6910aa6f9cb90dd80eca9616b5889e9c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -116,35 +152,23 @@ MonoBehaviour:
     fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\7a\7a55f88bc8ec30829f6f7ecc73e0cb10
     projectPath: Library\Artifacts\7a\7a55f88bc8ec30829f6f7ecc73e0cb10
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: TestProject\Library\Artifacts\81\81688730bccc24ae011ef36fc277f933
     fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\81\81688730bccc24ae011ef36fc277f933
     projectPath: Library\Artifacts\81\81688730bccc24ae011ef36fc277f933
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\Artifacts\8e\8e90e03a0adf4c462c4e29580a92ff48
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\8e\8e90e03a0adf4c462c4e29580a92ff48
-    projectPath: Library\Artifacts\8e\8e90e03a0adf4c462c4e29580a92ff48
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: TestProject\Library\Artifacts\a2\a2337af2135f9f797318bf011a754fad
     fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\a2\a2337af2135f9f797318bf011a754fad
     projectPath: Library\Artifacts\a2\a2337af2135f9f797318bf011a754fad
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: TestProject\Library\Artifacts\a5\a5b4c7db53ce8558950d624b08fcbf46
     fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\a5\a5b4c7db53ce8558950d624b08fcbf46
     projectPath: Library\Artifacts\a5\a5b4c7db53ce8558950d624b08fcbf46
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\Artifacts\a5\a5eb0496fbdbcd334a396d7326c2489e
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\a5\a5eb0496fbdbcd334a396d7326c2489e
-    projectPath: Library\Artifacts\a5\a5eb0496fbdbcd334a396d7326c2489e
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -152,53 +176,47 @@ MonoBehaviour:
     fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\a8\a80315f36db85ddf433b4d684e5c325a
     projectPath: Library\Artifacts\a8\a80315f36db85ddf433b4d684e5c325a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: TestProject\Library\Artifacts\a8\a8dec9aa7dd50a48e2c866dd6be98011
     fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\a8\a8dec9aa7dd50a48e2c866dd6be98011
     projectPath: Library\Artifacts\a8\a8dec9aa7dd50a48e2c866dd6be98011
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\Artifacts\b2\b200667bbd050a0e232a38cd164361fc
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\b2\b200667bbd050a0e232a38cd164361fc
-    projectPath: Library\Artifacts\b2\b200667bbd050a0e232a38cd164361fc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\Artifacts\bb\bb1342ee59751df52d5999e8fa750f6e
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\bb\bb1342ee59751df52d5999e8fa750f6e
-    projectPath: Library\Artifacts\bb\bb1342ee59751df52d5999e8fa750f6e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: TestProject\Library\Artifacts\c7\c7c543c6adee234f7c9e7f474742e4e4
     fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\c7\c7c543c6adee234f7c9e7f474742e4e4
     projectPath: Library\Artifacts\c7\c7c543c6adee234f7c9e7f474742e4e4
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Library\Artifacts\e1\e1fd4bdbf7fe680166c8f9b5be17b37b
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\e1\e1fd4bdbf7fe680166c8f9b5be17b37b
-    projectPath: Library\Artifacts\e1\e1fd4bdbf7fe680166c8f9b5be17b37b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: TestProject\Library\Artifacts\e5\e52b2ef3d9a84dcb44fd7925ef982cb7
     fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\e5\e52b2ef3d9a84dcb44fd7925ef982cb7
     projectPath: Library\Artifacts\e5\e52b2ef3d9a84dcb44fd7925ef982cb7
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TestProject\Library\Artifacts\e9\e9c19b4bf51c65daea4297f97fb26869
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\e9\e9c19b4bf51c65daea4297f97fb26869
+    projectPath: Library\Artifacts\e9\e9c19b4bf51c65daea4297f97fb26869
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: TestProject\Library\Artifacts\f1\f1e249018a9d46d0d3910f467eff0513
     fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\f1\f1e249018a9d46d0d3910f467eff0513
     projectPath: Library\Artifacts\f1\f1e249018a9d46d0d3910f467eff0513
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: TestProject\Library\Artifacts\f7\f79bbdc38694c93f6638ebb1cd08176f
     fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\f7\f79bbdc38694c93f6638ebb1cd08176f
     projectPath: Library\Artifacts\f7\f79bbdc38694c93f6638ebb1cd08176f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TestProject\Library\Artifacts\fd\fd6959246dcbe69b4ac3116e22c86542
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\Artifacts\fd\fd6959246dcbe69b4ac3116e22c86542
+    projectPath: Library\Artifacts\fd\fd6959246dcbe69b4ac3116e22c86542
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -334,12 +352,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: TestProject\Library\InspectorExpandedItems.asset
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: TestProject\Library\SceneVisibilityState.asset
     fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
@@ -380,17 +392,23 @@ MonoBehaviour:
     fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Logs\AssetImportWorker0.log
     projectPath: Logs\AssetImportWorker0.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: TestProject\Logs\shadercompiler-AssetImportWorker0.log
     fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Logs\shadercompiler-AssetImportWorker0.log
     projectPath: Logs\shadercompiler-AssetImportWorker0.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: TestProject\Logs\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Logs\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: TestProject\ProjectSettings\TagManager.asset
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -400,15 +418,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: TestProject\Temp\FSTimeGet-76eb2ea5c24a55f49aac62a2cb0c7a42
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Temp\FSTimeGet-76eb2ea5c24a55f49aac62a2cb0c7a42
-    projectPath: Temp\FSTimeGet-76eb2ea5c24a55f49aac62a2cb0c7a42
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TestProject\Temp\FSTimeGet-9b4e2f16e86aaad42b2540c14589d85b
-    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Temp\FSTimeGet-9b4e2f16e86aaad42b2540c14589d85b
-    projectPath: Temp\FSTimeGet-9b4e2f16e86aaad42b2540c14589d85b
+  - path: TestProject\Temp\FSTimeGet-344d9ddd1dacef240bbae4441635784c
+    fullPath: D:\Document\Projets\Unity\Four-Seasons\TestProject\Temp\FSTimeGet-344d9ddd1dacef240bbae4441635784c
+    projectPath: Temp\FSTimeGet-344d9ddd1dacef240bbae4441635784c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
